@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Cupid",
+  "base_artist": "FIFTY FIFTY",
+  "createdAt": "2025-12-13T12:47:44.429804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cupid",
+      "artist": "Lloyd feat. Awesome Jones!!!!",
+      "has_synced": true,
+      "path": "select/01_Cupid_Lloyd_feat._Awesome_Jones!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cupid (Feat. Awesome Jones)",
+      "artist": "Lloyd",
+      "has_synced": true,
+      "path": "select/02_Cupid_(Feat._Awesome_Jones)_Lloyd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cupid",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/03_Cupid_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "- Cupid -",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/04_-_Cupid_-_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Mess With Cupid",
+      "artist": "Otis Redding",
+      "has_synced": false,
+      "path": "select/05_Don't_Mess_With_Cupid_Otis_Redding.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Really Hurts Without You (Cupid mix)",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/06_Love_Really_Hurts_Without_You_(Cupid_mix)_Billy_Ocean.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Adventures of Cupid and Puck",
+      "artist": "Jem",
+      "has_synced": true,
+      "path": "select/07_The_Adventures_of_Cupid_and_Puck_Jem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cupid",
+      "artist": "The Big Moon",
+      "has_synced": false,
+      "path": "select/08_Cupid_The_Big_Moon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cupid (Acoustic)",
+      "artist": "The Big Moon",
+      "has_synced": true,
+      "path": "select/09_Cupid_(Acoustic)_The_Big_Moon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cupid De Locke",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/10_Cupid_De_Locke_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cupid Shuffle (JTB Remix)",
+      "artist": "Cupid",
+      "has_synced": false,
+      "path": "select/11_Cupid_Shuffle_(JTB_Remix)_Cupid.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Victorious Cupid",
+      "artist": "Pure Reason Revolution",
+      "has_synced": true,
+      "path": "select/12_Victorious_Cupid_Pure_Reason_Revolution.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bullet Proof Cupid",
+      "artist": "Girls Against Boys",
+      "has_synced": true,
+      "path": "select/13_Bullet_Proof_Cupid_Girls_Against_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cupid of the Carrion Kind",
+      "artist": "Flowing Tears",
+      "has_synced": false,
+      "path": "select/14_Cupid_of_the_Carrion_Kind_Flowing_Tears.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cupid Carries a Gun",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/15_Cupid_Carries_a_Gun_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cupid",
+      "artist": "FIFTY FIFTY",
+      "has_synced": false,
+      "path": "select/pl_01_Cupid_FIFTY_FIFTY.txt"
+    }
+  ]
+}
